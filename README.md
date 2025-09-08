@@ -115,9 +115,7 @@ This lab was inspired by and builds upon concepts from **HackTheBox Academy's Pu
 
 Special thanks to [HackTheBox Academy](https://academy.hackthebox.com/) for their comprehensive cybersecurity education resources.
 
-## Author
-
+------------------------------------------
 Cybersecurity Lab Exercise - Educational Purpose
 
-------------------------------------------
 This project is for educational use only.
